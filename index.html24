@@ -8,4 +8,9 @@
    <img src=”imagens do site.jpeg”>
    <p>Arranjos de flores são composições artísticas, podem ser elaborados para diversas ocasiões, como casamentos, festas, ou simplesmente para decorar ambientes. A escolha das flores, cores e formato do arranjo pode transmitir diferentes mensagens e criar atmosferas específicas.</p>
    </body>
+   body 
+{background-color: #DA70D6}
+h1 {background-color:#7B68EE}
+<p> {background-color: #DA70D6}
+  
 </html>
