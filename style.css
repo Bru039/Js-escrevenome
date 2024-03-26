@@ -1,5 +1,8 @@
 body
 {background-color: #d864d4;}
+    color: white;
+    display: flex;
+    justify-content: space-around;
 h1 {background-color:#7B68EE;}
 p {background-color: #DA70D6;}
 
