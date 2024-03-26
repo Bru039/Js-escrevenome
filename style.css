@@ -1,6 +1,15 @@
-body
-{background-color: #d864d4;}
-h1 {background-color:#7B68EE;}
-p {background-color: #DA70D6;}
+@charset "UTF-8";
+
+body{
+  background-color: #d864d4;
+}
+
+h1{ 
+    background-color: #7B68EE;
+}
+
+p{ 
+   background-color: #DA70D6;
+}
 
   
